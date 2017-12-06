@@ -6,7 +6,7 @@ Getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/burhanudinyahya/RYS.git
 > cd RYS
 > npm install
 > npm start
