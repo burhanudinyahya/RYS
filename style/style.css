@@ -1,0 +1,39 @@
+.search-bar {
+  margin: 20px 0px;
+  text-align: 'left';
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 0px 5px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover{
+  background: #eee;
+}
+
+.video-detail .details {
+  background: #fff;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  /* border-radius: 4px; */
+}
+
+.video-detail .details .title {
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.video-detail .details .description {
+  font-size: 12px;
+}
+
+.media-heading {
+  font-size: 12px;
+  font-weight: bold;
+}
